@@ -30,11 +30,13 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2026-03-22 at 10 38 55 PM](https://github.com/user-attachments/assets/65ebcc93-ecd1-4a99-91e1-9c8a7f6c1d47)
 
 
 **TABULATION:**
 
 
+![WhatsApp Image 2026-03-22 at 10 39 23 PM](https://github.com/user-attachments/assets/355338cf-4ab2-4b1a-a5ad-d3187d728ce9)
 
 
 
@@ -47,7 +49,11 @@ c)	Secondly, open I/P terminal & supply 5V to O/P terminal. Measure I/P Voltage 
 d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
-**Mark split up:**
+**output:**
+
+<img width="1918" height="832" alt="image" src="https://github.com/user-attachments/assets/b3f0d8e5-5fab-44d2-9b8d-8168bc0f1ea1" />
+
+<img width="1917" height="843" alt="image" src="https://github.com/user-attachments/assets/784e56a8-bfca-4a9b-a550-5c4cfd0b190c" />
 
 
 **RESULT:**
